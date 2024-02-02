@@ -1,0 +1,1 @@
+# palworld-web-editor
